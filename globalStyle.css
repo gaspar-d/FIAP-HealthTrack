@@ -1,0 +1,23 @@
+#custom-link:link {
+	color: white;
+	/* background-color: transparent;  */
+	text-decoration: none;
+}
+
+#custom-link:visited {
+	color: white;
+	/* background-color: transparent; */
+	text-decoration: none;
+}
+
+#custom-link:hover {
+	color: white;
+	/* background-color: transparent; */
+	text-decoration: none;
+}
+
+#custom-link:active {
+	color: white;
+	/* background-color: transparent; */
+	text-decoration: none;
+}
